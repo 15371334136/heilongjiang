@@ -9,11 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
 }
 .ellipse {
 }
-.image {
+._图片 {
 }
 .placeholder {
 }
@@ -65,24 +67,13 @@
 ._文本段落 {
   text-align:left;
 }
-.box_11 {
-}
-.label1 {
-  font-size:14px;
-  text-align:left;
-}
-.image1 {
-  color:#000000;
+._流程形状 {
 }
 .line {
 }
 .droplist {
   color:#000000;
   text-align:left;
-}
-._流程形状 {
-}
-.icon {
 }
 .checkbox {
   text-align:left;
@@ -93,18 +84,17 @@
 .table_cell {
 }
 ._连接线 {
+  font-size:16px;
+  color:#FFFFFF;
+}
+.icon {
+}
+._形状 {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
-  color:#1E1E1E;
+  font-size:13px;
+  color:#333333;
   text-align:center;
   line-height:normal;
-}
-._图片 {
-  color:#000000;
-}
-.line1 {
-}
-.box_2 {
 }
