@@ -7,18 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-._图片 {
-}
-.placeholder {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -60,14 +48,18 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
 }
-._流程形状 {
+._图片 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.label {
+  font-size:14px;
+  text-align:left;
 }
 .line {
 }
@@ -81,20 +73,19 @@
 .radio_button {
   text-align:left;
 }
+._流程形状 {
+}
 .table_cell {
 }
 ._连接线 {
   font-size:16px;
-  color:#FFFFFF;
+  color:#1E1E1E;
+}
+.box_2 {
 }
 .icon {
 }
-._形状 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
+.placeholder {
+}
+.box_1 {
 }
